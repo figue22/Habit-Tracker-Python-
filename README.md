@@ -51,7 +51,7 @@ Se utiliza el patrón:
 
 ```python
 if __name__ == "__main__":
-    menu_principal(habitos)
+    menu_principal(habitos) ```
 
 Para definir el punto de entrada del programa.
 
@@ -59,14 +59,14 @@ Para definir el punto de entrada del programa.
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/habit-tracker-python.git
+```git clone https://github.com/tu-usuario/habit-tracker-python.git```
 
 
 Entrar al directorio:
 
-cd habit-tracker-python
+```cd habit-tracker-python```
 
 
 Ejecutar el archivo principal:
 
-python main.py
+```python main.```
